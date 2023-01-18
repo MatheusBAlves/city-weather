@@ -1,0 +1,30 @@
+.city {
+    display: flex;
+    gap: .5rem;
+    flex-direction: column;
+    text-align: center;
+}
+
+.city_name {
+    font-size: 3rem;
+}
+
+.city_location {
+    font-size: 2.5rem;
+}
+
+.city_temp {
+    font-size: 1.8rem;
+}
+
+.city_time {
+    font-size: 1.7rem;
+}
+
+.city_condition {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.5rem;
+    align-items: center;
+    justify-content: center;
+}
