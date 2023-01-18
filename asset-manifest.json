@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/city-weather/static/css/main.3ceba3cb.css",
+    "main.js": "/city-weather/static/js/main.cdffdc0f.js",
+    "index.html": "/city-weather/index.html",
+    "main.3ceba3cb.css.map": "/city-weather/static/css/main.3ceba3cb.css.map",
+    "main.cdffdc0f.js.map": "/city-weather/static/js/main.cdffdc0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ceba3cb.css",
+    "static/js/main.cdffdc0f.js"
+  ]
+}
