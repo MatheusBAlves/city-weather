@@ -20,7 +20,7 @@ function Card({ data }) {
         {location.localtime}
       </div>
       <div className="city_condition">
-        <img src={current.condition.icon} />
+        <img src={current.condition.icon} alt={current.condition.text}/>
         <span>{current.condition.text}</span>
       </div>
     </div>
